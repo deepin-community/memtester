@@ -1,5 +1,6 @@
 Author: Helmut Grohne <helmut@subdivi.de>
 Description: make the build system honor $CC to facilitate cross builds
+Forwarded: no
 
 Index: memtester-4.3.0/conf-cc
 ===================================================================
